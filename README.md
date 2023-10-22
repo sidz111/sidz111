@@ -2,7 +2,7 @@
 <h2 align="center">:books: B.Tech degree in Electronics and Telecommunication :books:</h2>
 
 <p align="center">
-  <a href="https://github.com/sidz111/"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Engineering+Student;Python%20|%20Machine+Learning%20|%20Deep+Learning;Open+Source+Contributor;Club+Head+of+Data+Polaris;Nano-Degree:+Python+for+Artificial+Intelligence;JLPT+Japanese+N5+Certified&center=true&width=550&height=40"></a>
+  <a href="https://github.com/sidz111/"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Telecommunication+Engg+Student;Java%20|%20Python%20|+SQL%20|%20Computer+Networks;Club+Head+of+Data+Polaris;Nano-Degree:+Python+for+Artificial+Intelligence;JLPT+Japanese+N5+Certified&center=true&width=550&height=40"></a>
 </p>
 
 <div align="center">
@@ -28,14 +28,14 @@
 <!-- ![Sachin's GitHub stats](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
 
 <br>
-<h2 align="center">:handshake: Open-Source Contribution :handshake:</h2>
+<h2 align="center">:handshake: Competitions :handshake:</h2>
 <p align="center">
-  <a href="https://github.com/sidz111/"><img src="https://readme-typing-svg.herokuapp.com?lines=Successfully+Contributing+from+2+Years;Achieve+Top-50+Rank+in+Open+Force+2022;GSSoC+2022+Contributor;HacktoberFest+2022+Contributor&center=true&width=550&height=40"></a>
+  <a href="https://github.com/sidz111/"><img src="https://readme-typing-svg.herokuapp.com?lines=Students+Innovation+Festival;IISF+2022+MANIT+Bhopal;Selected+in+top+100+teams+in+India&center=true&width=550&height=40"></a>
 </p>
 
 <h2 align="center">:man_student: Hackathon :man_student:</h2>
 <p align="center">
-  <a href="https://github.com/sidz111/"><img src="https://readme-typing-svg.herokuapp.com?lines=Smart+India+Hackathon+Grand+Finalist+2022;SunHack+International+Level+Hackathon+2022;DataHack%20(Techyone)+Finalist+2022;2nd+Rank+in+Hacky-Holi+2022;Sustainability+Hackathon+2023&center=true&width=550&height=40"></a>
+  <a href="https://github.com/sidz111/"><img src="https://readme-typing-svg.herokuapp.com?lines=2nd+Edition+of+Poornima+Hackathon+2023;2nd+Edition+of+Poornima+Hackathon+2023;DataHack%20(Techyone)+Finalist+2022;2nd+Rank+in+Hacky-Holi+2022;Sustainability+Hackathon+2023&center=true&width=550&height=40"></a>
 </p>
 
 <h2 align="center">:smile: Language Used :smile:</h2>
