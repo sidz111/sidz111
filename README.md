@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello, I'm Shuddhodhan Surwade!</h1>
+<h1 align="center">👾 Greetings, I'm Shuddhodhan Surwade! 👾</h1>
 
-<p align="center">🎓 Electronics and Telecommunication Engineering Student</p>
+<p align="center">🚀 Eternal Explorer in the Digital Realm</p>
 
 <p align="center">
   <a href="https://github.com/sidz111/">
@@ -17,12 +17,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidz111&show_icons=true&theme=chartreuse-dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=sidz111&show_icons=true&theme=radical">
 </div>
 
 <br>
 
-<h2 align="center">:computer: Tech Stack</h2>
+<h2 align="center">:computer: Dark Arts of Tech</h2>
 
 <p align="center">
   <a href="https://github.com/sidz111/">
@@ -32,7 +32,7 @@
 
 <br>
 
-<h2 align="center">:trophy: Achievements</h2>
+<h2 align="center">:trophy: Legendary Exploits</h2>
 
 <p align="center">
   <a href="https://github.com/sidz111/">
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<h2 align="center">:rocket: Hackathons</h2>
+<h2 align="center">:rocket: Hackathon Conquests</h2>
 
 <p align="center">
   <a href="https://github.com/sidz111/">
@@ -48,13 +48,13 @@
   </a>
 </p>
 
-<h2 align="center">:chart_with_upwards_trend: Language Usage Stats</h2>
+<h2 align="center">:chart_with_upwards_trend: Language Matrix</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&layout=compact&theme=radical">
 </div>
 
-<h2 align="center">:iphone: Connect with Me</h2>
+<h2 align="center">:iphone: Join My Network</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shuddhodhan-surwade-a493b7215/">
