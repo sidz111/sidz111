@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&layout=compact&theme=radical">
 </div>
 
-<h2 align="center">:art: Skills in Animation</h2>
+<h2 align="center">:art: Skills </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%20🚀%20-ED8B00?style=for-the-badge&logo=java&logoColor=white">
