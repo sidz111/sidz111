@@ -60,7 +60,12 @@
   <a href="https://www.linkedin.com/in/shuddhodhan-surwade-a493b7215/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <!-- Animated LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/shuddhodhan-surwade-a493b7215/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&logoHeight=30">
+  </a>
+  <!-- Animated Gmail Icon -->
   <a href="mailto:sssurwade2212@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30">
   </a>
 </div>
