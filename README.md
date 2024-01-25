@@ -4,9 +4,7 @@
  <p align="center"> • 📧 Contact me at sssurwade2212@gmail.com </p><br>
  <p align="center"> • 👨‍💻 I’m currently learning Java FullStack. </p><br>
  <p align="center">  •  💬 Ask me about Java.<br> </p><br>
- <p align="center">  </p>
-
-  • 🧿 View my <a href="https://sidz111.github.io/siddhu.github.io/" target="_blank">Portfolio</a><br>
+ <p align="center"> • 🧿 View my <a href="https://sidz111.github.io/siddhu.github.io/" target="_blank">Portfolio</a> </p>
 <br>
 <p align="center">🚀 Eternal Explorer in the Digital Realm</p>
 
