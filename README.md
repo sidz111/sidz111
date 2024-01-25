@@ -1,3 +1,11 @@
+<style>
+  body {
+    background-color: #1f1f1f; /* Dark green color */
+    color: #ffffff; /* White text for contrast */
+  }
+</style>
+
+
 <!-- Header -->
 <h1 align="center">👾 Greetings, I'm Shuddhodhan Surwade! 👾</h1>
 
