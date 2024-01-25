@@ -26,14 +26,6 @@
 </div>
 
 <br>
-<h2 align="left">🔥   My Stats :</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SAI127001&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="250" alt="streak graph"  />
-<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SAI127001&theme=react&hide_border=true" alt="GitHub Streak" /></a> -->
-
-<h2 align="center">:computer: Dark Arts of Tech</h2>
-
 <p align="center">
   <a href="https://github.com/sidz111/">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|+SQL%20|%20Computer+Networks|%20Latex;&center=true&width=550&height=40">
