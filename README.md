@@ -1,11 +1,10 @@
 <h1 align="center">👾 Greetings, I'm Shuddhodhan Surwade! 👾</h1>
 <h2 align="center">💫 About Me : </h2>
  <p align="center"> • 🇮🇳 Lives in India - Shirpur Dhule</p>
- <p align="center"> • 📧 Contact me at sssurwade2212@gmail.com </p><br>
- <p align="center"> • 👨‍💻 I’m currently learning Java FullStack. </p><br>
- <p align="center">  •  💬 Ask me about Java.<br> </p><br>
+ <p align="center"> • 📧 Contact me at sssurwade2212@gmail.com </p>
+ <p align="center"> • 👨‍💻 I’m currently learning Java FullStack. </p>
+ <p align="center">  •  💬 Ask me about Java.<br> </p><
  <p align="center"> • 🧿 View my <a href="https://sidz111.github.io/siddhu.github.io/" target="_blank">Portfolio</a> </p>
-<br>
 <p align="center">🚀 Eternal Explorer in the Digital Realm</p>
 
 <p align="center">
