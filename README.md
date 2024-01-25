@@ -3,7 +3,7 @@
  <p align="center"> • 🇮🇳 Lives in India - Shirpur Dhule</p>
  <p align="center"> • 📧 Contact me at sssurwade2212@gmail.com </p>
  <p align="center"> • 👨‍💻 I’m currently learning Java FullStack. </p>
- <p align="center">  •  💬 Ask me about Java.<br> </p><
+ <p align="center">  •  💬 Ask me about Java.</p>
  <p align="center"> • 🧿 View my <a href="https://sidz111.github.io/siddhu.github.io/" target="_blank">Portfolio</a> </p>
 <p align="center">🚀 Eternal Explorer in the Digital Realm</p>
 
