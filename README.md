@@ -1,6 +1,6 @@
 <h1 align="center">👾 Greetings, I'm Shuddhodhan Surwade! 👾</h1>
 <h2 align="center">💫 About Me : </h2>
-  • 🇮🇳 Lives in India - Shirpur Dhule<br>
+ <p align="center"> • 🇮🇳 Lives in India - Shirpur Dhule</p><br>
   • 📧 Contact me at sssurwade2212@gmail.com<br>
   • 👨‍💻 I’m currently learning Java FullStack. <br>
   •  💬 Ask me about Java.<br>
