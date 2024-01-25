@@ -1,5 +1,5 @@
 <style>
-  body {
+  .body {
     background-color: #1f1f1f; /* Dark green color */
     color: #ffffff; /* White text for contrast */
   }
