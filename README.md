@@ -1,11 +1,10 @@
 <h1 align="center">👾 Greetings, I'm Shuddhodhan Surwade! 👾</h1>
-<h2> 💫 About Me : </h2>
-  • 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
-  • 📧 Contact me at codesai127.0.0.1@gmail.com<br>
-  • 👨‍💻 I’m currently learning Blockchain Development. <br>
-  •  💬 Ask me about Frontend Queries. <br>
-  • 🧿 View my <a href="https://terukulasai-portfolio.netlify.app/" target="_blank">Portfolio</a><br>
-  • 🤝 I'm open to collaborating on React based projects.
+<h2 align="center">💫 About Me : </h2>
+  • 🇮🇳 Lives in India - Shirpur Dhule<br>
+  • 📧 Contact me at sssurwade2212@gmail.com<br>
+  • 👨‍💻 I’m currently learning Java FullStack. <br>
+  •  💬 Ask me about Java.<br>
+  • 🧿 View my <a href="https://sidz111.github.io/siddhu.github.io/" target="_blank">Portfolio</a><br>
 <br>
 <p align="center">🚀 Eternal Explorer in the Digital Realm</p>
 
