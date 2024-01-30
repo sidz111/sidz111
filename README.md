@@ -1,4 +1,7 @@
 <!-- Header -->
+![github-header-image](https://github.com/sidz111/sidz111/assets/119784108/c3401490-d742-4b0c-9bb2-f44b520b1ff3)
+
+
 <h1 align="center">👾 Greetings, I'm Shuddhodhan Surwade! 👾</h1>
 
 <!-- About Me -->
