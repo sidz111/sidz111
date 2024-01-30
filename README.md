@@ -1,8 +1,7 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/sidz111/sidz111/raw/assets/119784108/c3401490-d742-4b0c-9bb2-f44b520b1ff3" alt="GitHub Header Image">
+  <img src="https://github.com/sidz111/sidz111/assets/119784108/df50843e-9c2c-4d6b-b48f-7f3202348a0c" alt="GitHub Header Image">
 </p>
-
 
 <h1 align="center">👾 Greetings, I'm Shuddhodhan Surwade! 👾</h1>
 
