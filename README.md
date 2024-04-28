@@ -84,7 +84,7 @@
   <img src="https://img.shields.io/badge/CSS-%20🎨%20-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Git-%20👾%20-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-%20🍃%20-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Hibernate-%20🛏️%20-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/Hibernate-%20💻%20-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/Microservices-%20🌐%20-2C3E50?style=for-the-badge">
 </p>
 
