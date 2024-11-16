@@ -11,7 +11,7 @@
 <p align="center"> 
   • 🇮🇳 Lives in India - Shirpur Dhule<br>
   • 📧 Contact me at sssurwade2212@gmail.com<br>
-  • 👨‍💻 I’m currently learning Java FullStack.<br>
+  • 👨‍💻 I’m currently Java FullStack.<br>
   • 💬 Ask me about Java.<br>
   • 🧿 View my <a href="https://sidz111.github.io/sidz.github.io/" target="_blank">Portfolio</a><br>
 </p>
