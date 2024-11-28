@@ -13,7 +13,7 @@
   • 📧 Contact me at sssurwade2212@gmail.com<br>
   • 👨‍💻 I’m Java FullStack.<br>
   • 💬 Ask me about Java.<br>
-  • 🧿 View my <a href="https://sidz111.github.io/sidz.github.io/" target="_blank">Portfolio</a><br>
+  • 🧿 View my <a href="https://sidz111.github.io/portfolio/" target="_blank">Portfolio</a><br>
 </p>
 
 <p align="center">🚀 Eternal Explorer in the Digital Realm</p>
