@@ -105,9 +105,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="transition: transform 0.2s;"/>
   </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" style="transition: transform 0.2s;"/>
-  </a> 
+  </a>
 </p>
 
 <!-- Footer -->
@@ -117,3 +117,33 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" style="border-radius: 20px;">
 </p>
 
+<style>
+  body {
+    background-color: #121212;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  }
+
+  h1, h2 {
+    text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;
+  }
+
+  a {
+    color: #00ffcc;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+
+  a:hover {
+    color: #ff007f;
+  }
+
+  img {
+    transition: transform 0.2s;
+  }
+
+  img:hover {
+    transform: scale(1.1);
+  }
+</style>
