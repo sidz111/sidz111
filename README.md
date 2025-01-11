@@ -1,21 +1,19 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/sidz111/sidz111/assets/119784108/df50843e-9c2c-4d6b-b48f-7f3202348a0c" alt="GitHub Header Image">
+  <img src="https://github.com/sidz111/sidz111/assets/119784108/df50843e-9c2c-4d6b-b48f-7f3202348a0c" alt="GitHub Header Image" width="100%">
 </p>
 
 <h1 align="center">👾 Greetings, I'm Shuddhodhan Surwade! 👾</h1>
 
-<!-- About Me -->
+<!-- About Me Section -->
 <h2 align="center">💫 About Me</h2>
-
 <p align="center"> 
-  • 🇮🇳 Lives in India - Shirpur Dhule<br>
+  • 🇮🇳 Lives in Shirpur Dhule, India<br>
   • 📧 Contact me at: <a href="mailto:sssurwade2212@gmail.com">sssurwade2212@gmail.com</a><br>
-  • 👨‍💻 I’m a Java FullStack Developer.<br>
+  • 👨‍💻 Java FullStack Developer.<br>
   • 💬 Ask me about Java, Spring Boot, Hibernate, and more!<br>
   • 🧿 View my <a href="https://sidz111.github.io/portfolio/" target="_blank">Portfolio</a><br>
 </p>
-
 <p align="center">🚀 Eternal Explorer in the Digital Realm</p>
 
 <!-- Typing Animation -->
@@ -27,95 +25,40 @@
 
 <!-- Badges Section -->
 <div align="center">
-  <img src="https://img.shields.io/github/followers/sidz111?logo=Github&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/sidz111?style=for-the-badge">
-  <a href="https://github.com/sidz111/"><img src="https://komarev.com/ghpvc/?username=sidz111&style=for-the-badge"></a>
+  <img src="https://img.shields.io/github/followers/sidz111?logo=Github&style=for-the-badge" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/sidz111?style=for-the-badge" alt="GitHub Stars">
+  <a href="https://github.com/sidz111/"><img src="https://komarev.com/ghpvc/?username=sidz111&style=for-the-badge" alt="Profile Views"></a>
 </div>
-
-<!-- GitHub Stats -->
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidz111&show_icons=true&theme=radical">
-</div>
-
-<!-- Additional Typing Animation -->
-<br>
-<p align="center">
-  <a href="https://github.com/sidz111/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|%20SQL%20|%20Computer+Networks|%20Latex%20|%20Spring+Boot%20|%20Hibernate%20|%20Microservices;&center=true&width=550&height=40">
-  </a>
-</p>
-
-<!-- Legendary Exploits -->
-<br>
-<h2 align="center">🏆 Legendary Exploits</h2>
-<p align="center">
-  <a href="https://github.com/sidz111/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Students+Innovation+Festival;IISF+2022+MANIT;Top+100+Teams+in+India;&center=true&width=550&height=40">
-  </a>
-</p>
-
-<!-- Hackathon Conquests -->
-<br>
-<h2 align="center">🚀 Hackathon Conquests</h2>
-<p align="center">
-  <a href="https://github.com/sidz111/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=2nd+Edition+of+Poornima+Hackathon+2023;Tech+Hunt+Hackathon;&center=true&width=550&height=40">
-  </a>
-</p>
 
 <!-- GitHub Stats 📈 -->
-<a href="https://github.com/sidz111/sidz111">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<p align="center">
+  <a href="https://github.com/sidz111/sidz111">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Top Languages">
+  </a>
+</p>
 
-<a href="https://github.com/sidz111/sidz111">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidz111&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Sidz%20111%27s%20Github%20Stats" alt="Sidz's GitHub Stats" />
-</a>
-<br><br>
+<p align="center">
+  <a href="https://github.com/sidz111/sidz111">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidz111&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Sidz%20111%27s%20Github%20Stats" alt="Sidz's GitHub Stats" />
+  </a>
+</p>
 
-<a href="https://github.com/sidz111/sidz111">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidz111&theme=radical&hide_border=true" alt="Sidz's GitHub Stats Graph"/>
-</a>
-<br><br>
+<p align="center">
+  <a href="https://github.com/sidz111/sidz111">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidz111&theme=radical&hide_border=true" alt="Sidz's GitHub Stats Graph"/>
+  </a>
+</p>
 
-<a href="https://github.com/sidz111/sidz111">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidz111&theme=dark" alt="Sidz's GitHub Streak Stats"/>
-</a>
-<br><br>
+<p align="center">
+  <a href="https://github.com/sidz111/sidz111">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidz111&theme=dark" alt="Sidz's GitHub Streak Stats"/>
+  </a>
+</p>
 
-<a href="https://github.com/sidz111/sidz111">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sidz111&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Sidz's GitHub Contributions Graph"/>
-</a>
-<br><br>
-
-<a href="https://github.com/sidz111/NFT-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<a href="https://github.com/sidz111/Wave-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/sidz111/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/sidz111/NASA-APOD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=NASA-APOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/sidz111/Web-Postman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=Web-Postman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/sidz111/IP-Address_Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <br><br>
 
 <!-- Skills Section -->
-<h2 align="center">💻 Skills and Tools</h2>
+<h2 align="center">💻 Skills & Tools</h2>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
@@ -153,15 +96,14 @@
 </p>
 
 <!-- Join My Network -->
-<br>
 <h2 align="center">📱 Join My Network</h2>
 <div align="center">
   <!-- Animated LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/shuddhodhan-surwade-a493b7215/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&logoHeight=30">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&logoHeight=30" alt="LinkedIn">
   </a>
   <!-- Animated Gmail Icon -->
   <a href="mailto:sssurwade2212@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30" alt="Gmail">
   </a>
 </div>
