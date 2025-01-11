@@ -6,13 +6,13 @@
 <h1 align="center">👾 Greetings, I'm Shuddhodhan Surwade! 👾</h1>
 
 <!-- About Me -->
-<h2 align="center">💫 About Me : </h2>
+<h2 align="center">💫 About Me</h2>
 
 <p align="center"> 
   • 🇮🇳 Lives in India - Shirpur Dhule<br>
-  • 📧 Contact me at sssurwade2212@gmail.com<br>
-  • 👨‍💻 I’m Java FullStack.<br>
-  • 💬 Ask me about Java.<br>
+  • 📧 Contact me at: <a href="mailto:sssurwade2212@gmail.com">sssurwade2212@gmail.com</a><br>
+  • 👨‍💻 I’m a Java FullStack Developer.<br>
+  • 💬 Ask me about Java, Spring Boot, Hibernate, and more!<br>
   • 🧿 View my <a href="https://sidz111.github.io/portfolio/" target="_blank">Portfolio</a><br>
 </p>
 
@@ -21,7 +21,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/sidz111/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|+SQL%20|%20Computer+Networks;&center=true&width=550&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|%20SQL%20|%20Computer+Networks;&center=true&width=550&height=40">
   </a>
 </p>
 
@@ -38,18 +38,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sidz111&show_icons=true&theme=radical">
 </div>
 
-<!-- Typing Animation -->
+<!-- Additional Typing Animation -->
 <br>
 <p align="center">
   <a href="https://github.com/sidz111/">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|%20SQL%20|%20Computer+Networks|%20Latex%20|%20Spring+Boot%20|%20Hibernate%20|%20Microservices;&center=true&width=550&height=40">
-
   </a>
 </p>
 
 <!-- Legendary Exploits -->
 <br>
-<h2 align="center">:trophy: Legendary Exploits</h2>
+<h2 align="center">🏆 Legendary Exploits</h2>
 <p align="center">
   <a href="https://github.com/sidz111/">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Students+Innovation+Festival;IISF+2022+MANIT;Top+100+Teams+in+India;&center=true&width=550&height=40">
@@ -58,16 +57,14 @@
 
 <!-- Hackathon Conquests -->
 <br>
-<h2 align="center">:rocket: Hackathon Conquests</h2>
+<h2 align="center">🚀 Hackathon Conquests</h2>
 <p align="center">
   <a href="https://github.com/sidz111/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=2nd+Edition+of+Poornima+Hackathon+2023;Tech+Hunt+Hachathon;&center=true&width=550&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=2nd+Edition+of+Poornima+Hackathon+2023;Tech+Hunt+Hackathon;&center=true&width=550&height=40">
   </a>
 </p>
 
-<!-- Language Matrix -->
-
-# GitHub Stats 📈
+<!-- GitHub Stats 📈 -->
 <a href="https://github.com/sidz111/sidz111">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -117,14 +114,7 @@
 </a>
 <br><br>
 
-<br>
-<!-- <h2 align="center">:chart_with_upwards_trend: Language Matrix</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&layout=compact&theme=radical">
-</div> -->
-
-<!-- Skills -->
-<br>
+<!-- Skills Section -->
 <h2 align="center">💻 Skills and Tools</h2>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -162,11 +152,9 @@
   </a>
 </p>
 
-
-
 <!-- Join My Network -->
 <br>
-<h2 align="center">:iphone: Join My Network</h2>
+<h2 align="center">📱 Join My Network</h2>
 <div align="center">
   <!-- Animated LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/shuddhodhan-surwade-a493b7215/">
@@ -177,4 +165,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30">
   </a>
 </div>
-
