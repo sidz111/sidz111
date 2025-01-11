@@ -66,11 +66,62 @@
 </p>
 
 <!-- Language Matrix -->
+
+# GitHub Stats 📈
+<a href="https://github.com/sidz111/sidz111">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<a href="https://github.com/sidz111/sidz111">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidz111&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Sidz%20111%27s%20Github%20Stats" alt="Sidz's GitHub Stats" />
+</a>
+<br><br>
+
+<a href="https://github.com/sidz111/sidz111">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidz111&theme=radical&hide_border=true" alt="Sidz's GitHub Stats Graph"/>
+</a>
+<br><br>
+
+<a href="https://github.com/sidz111/sidz111">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidz111&theme=dark" alt="Sidz's GitHub Streak Stats"/>
+</a>
+<br><br>
+
+<a href="https://github.com/sidz111/sidz111">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sidz111&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Sidz's GitHub Contributions Graph"/>
+</a>
+<br><br>
+
+<a href="https://github.com/sidz111/NFT-Portal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/sidz111/Wave-Portal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/sidz111/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/sidz111/NASA-APOD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=NASA-APOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/sidz111/Web-Postman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=Web-Postman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/sidz111/IP-Address_Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidz111&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<br><br>
+
 <br>
-<h2 align="center">:chart_with_upwards_trend: Language Matrix</h2>
+<!-- <h2 align="center">:chart_with_upwards_trend: Language Matrix</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&layout=compact&theme=radical">
-</div>
+</div> -->
 
 <!-- Skills -->
 <br>
