@@ -1,8 +1,7 @@
 <!-- Header -->
-
-<h1 align="center">
-  <span style="color:#00ff00; font-family:monospace;">👾 Greetings, I'm Shuddhodhan Surwade! 👾</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;I+am+Shuddhodhan+Surwade;Java+Backend+Developer;Spring+Boot+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
+</p>
 
 <!-- Animated Divider -->
 <p align="center">
