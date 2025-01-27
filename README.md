@@ -1,109 +1,81 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://github.com/sidz111/sidz111/assets/119784108/df50843e-9c2c-4d6b-b48f-7f3202348a0c" alt="GitHub Header Image" width="100%">
-</p>
 
-<h1 align="center">👾 Greetings, I'm Shuddhodhan Surwade! 👾</h1>
+<h1 align="center">
+  <span style="color:#00ff00; font-family:monospace;">👾 Greetings, I'm Shuddhodhan Surwade! 👾</span>
+</h1>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
 
 <!-- About Me Section -->
-<h2 align="center">💫 About Me</h2>
-<p align="center"> 
-  • 🇮🇳 Lives in Shirpur Dhule, India<br>
-  • 📧 Contact me at: <a href="mailto:sssurwade2212@gmail.com">sssurwade2212@gmail.com</a><br>
-  • 👨‍💻 Java FullStack Developer.<br>
-  • 💬 Ask me about Java, Spring Boot, Hibernate, and more!<br>
-  • 🧿 View my <a href="https://sidz111.github.io/portfolio/" target="_blank">Portfolio</a><br>
+<h2 align="center" style="color:#39ff14;">💫 About Me</h2>
+<p align="center" style="color:#80ffdb; font-family:monospace;">
+  • 🌏 Based in Shirpur Dhule, India <br>
+  • 📧 Reach me at: <a href="mailto:sssurwade2212@gmail.com" style="color:#00e5ff;">sssurwade2212@gmail.com</a> <br>
+  • 👨‍💻 Passionate about Java Full Stack Development <br>
+  • 💬 Ask me about Java, Spring Boot, Hibernate, and more! <br>
+  • 🧿 Check out my <a href="https://sidz111.github.io/portfolio/" target="_blank" style="color:#ff007f;">Portfolio</a> <br>
 </p>
-<p align="center">🚀 Eternal Explorer in the Digital Realm</p>
+<p align="center" style="color:#ffcc00; font-family:monospace;">🚀 Exploring the Boundaries of Code and Creativity</p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/sidz111/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|%20SQL%20|%20Computer+Networks;&center=true&width=550&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20Developer%20|%20Spring%20Boot%20Enthusiast%20|%20SQL%20Expert;Crafting%20Futuristic%20Apps;&center=true&width=700&height=45&font=monospace&color=00ff00&vCenter=true&size=20">
   </a>
 </p>
 
-<!-- Badges Section -->
+<!-- Dynamic Stats -->
 <div align="center">
-  <img src="https://img.shields.io/github/followers/sidz111?logo=Github&style=for-the-badge" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/sidz111?style=for-the-badge" alt="GitHub Stars">
-  <a href="https://github.com/sidz111/"><img src="https://komarev.com/ghpvc/?username=sidz111&style=for-the-badge" alt="Profile Views"></a>
+  <img src="https://img.shields.io/github/followers/sidz111?color=00ff00&style=for-the-badge&logo=GitHub" alt="Followers">
+  <img src="https://img.shields.io/github/stars/sidz111?color=00e5ff&style=for-the-badge&logo=GitHub" alt="Stars">
+  <a href="https://github.com/sidz111/">
+    <img src="https://komarev.com/ghpvc/?username=sidz111&color=ff007f&style=for-the-badge" alt="Profile Views">
+  </a>
 </div>
 
-<!-- GitHub Stats 📈 -->
+<!-- GitHub Stats -->
+<h2 align="center" style="color:#39ff14;">📈 GitHub Stats</h2>
 <p align="center">
-  <a href="https://github.com/sidz111/sidz111">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Top Languages">
+  <a href="https://github.com/sidz111">
+    <img src="https://github-readme-stats.vercel.app/api?username=sidz111&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Shuddhodhan's%20GitHub%20Stats" alt="GitHub Stats" width="49%"/>
+  </a>
+  <a href="https://github.com/sidz111">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidz111&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="49%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sidz111/sidz111">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidz111&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Sidz%20111%27s%20Github%20Stats" alt="Sidz's GitHub Stats" />
+  <a href="https://github.com/sidz111">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
+
+## 💻 Skills & Tools
+<p style="font-size: 18px; color: #FFFFFF;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+<!-- Network -->
+<h2 align="center" style="color:#39ff14;">📱 Connect With Me</h2>
 <p align="center">
-  <a href="https://github.com/sidz111/sidz111">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidz111&theme=radical&hide_border=true" alt="Sidz's GitHub Stats Graph"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sidz111/sidz111">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidz111&theme=dark" alt="Sidz's GitHub Streak Stats"/>
-  </a>
-</p>
-
-<br><br>
-
-<!-- Skills Section -->
-<h2 align="center">💻 Skills & Tools</h2>
-<p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> 
-  </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-  </a>
-</p>
-
-<!-- Join My Network -->
-<h2 align="center">📱 Join My Network</h2>
-<div align="center">
-  <!-- Animated LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/shuddhodhan-surwade-a493b7215/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&logoHeight=30" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- Animated Gmail Icon -->
   <a href="mailto:sssurwade2212@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-</div>
+</p>
