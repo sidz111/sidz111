@@ -1,11 +1,11 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;I+am+Shuddhodhan+Surwade;Java+Backend+Developer;Spring+Boot+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
-</p>
-
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;I+am+Shuddhodhan+Surwade;Java+Backend+Developer;Spring+Boot+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
 </p>
 
 <!-- About Me Section -->
@@ -27,15 +27,6 @@
 </p>
 
 <!-- Dynamic Stats -->
-<div align="center">
-  <img src="https://img.shields.io/github/followers/sidz111?color=00ff00&style=for-the-badge&logo=GitHub" alt="Followers">
-  <img src="https://img.shields.io/github/stars/sidz111?color=00e5ff&style=for-the-badge&logo=GitHub" alt="Stars">
-  <a href="https://github.com/sidz111/">
-    <img src="https://komarev.com/ghpvc/?username=sidz111&color=ff007f&style=for-the-badge" alt="Profile Views">
-  </a>
-</div>
-
-<!-- GitHub Stats -->
 <h2 align="center" style="color:#39ff14;">📈 GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/sidz111">
@@ -52,6 +43,14 @@
   </a>
 </p>
 
+<!-- GIF Animations -->
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="250">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="400">
+</p>
 
 ## 💻 Skills & Tools
 <p style="font-size: 18px; color: #FFFFFF;">
