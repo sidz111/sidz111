@@ -48,9 +48,6 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="250">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="400">
-</p>
 
 ## 💻 Skills & Tools
 <p style="font-size: 18px; color: #FFFFFF;">
