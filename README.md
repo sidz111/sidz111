@@ -1,8 +1,8 @@
 <!-- Header -->
 <!-- Animated Divider -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;I+am+Shuddhodhan+Surwade;Java+Backend+Developer;Spring+Boot+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
