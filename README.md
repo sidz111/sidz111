@@ -44,9 +44,9 @@
 </p>
 
 <!-- GIF Animations -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="250">
-</p>
+</p> -->
 
 
 ## 💻 Skills & Tools
