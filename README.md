@@ -3,6 +3,8 @@
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p> -->
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sidz111&theme=onedark&no-frame=false&no-bg=false&margin-w=15&column=7)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Hello,+Folks!+👋;I+am+Shuddhodhan+Surwade;Java+Backend+Developer;Spring+Boot+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
