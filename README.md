@@ -6,7 +6,7 @@
 <div align="center">
   
   ## 🏆 GitHub Trophies  
-  <img src="https://github-profile-trophy.vercel.app/?username=sidz111&theme=onedark&no-frame=false&no-bg=false&margin-w=15&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sidz111&theme=onedark&no-frame=false&no-bg=false&margin-w=15&column=8" alt="GitHub Trophies"/>
 
   ---
 
