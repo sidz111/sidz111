@@ -27,6 +27,7 @@
   • 👨‍💻 Passionate about Java Full Stack Development <br>
   • 💬 Ask me about Java, Spring Boot, Hibernate, and more! <br>
   • 🧿 Check out my <a href="https://sidz111.github.io/portfolio/" target="_blank" style="color:#ff007f;">Portfolio</a> <br>
+   • 🧿 Check out my <a href="[https://sidz111.github.io/portfolio/](https://sidz111.github.io/softorate/)" target="_blank" style="color:#ff007f;">Work Portfolio</a> <br>
 </p>
 <p align="center" style="color:#ffcc00; font-family:monospace;">🚀 Exploring the Boundaries of Code and Creativity</p>
 
