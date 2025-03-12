@@ -10,6 +10,11 @@
 
   ---
 
+  <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=sidz111&theme=github-dark"
+        alt="Recent GitHub Activity"
+      />
+
   ## 📈 GitHub Profile Summary  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidz111&theme=github_dark" alt="GitHub Profile Summary"/>
 
@@ -49,11 +54,37 @@
   </a>
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/sidz111">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+ <a href="https://github.com/sidz111">
+   <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidz111&theme=github_dark"
+        alt="General Stats"
+      />
   </a>
+
+   <a href="https://github.com/sidz111">
+   <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidz111&theme=github_dark"
+        alt="Repos per Language"
+      /> </a>
 </p>
+
+
+<p align="center">
+ <a href="https://github.com/sidz111">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+
+   <a href="https://github.com/sidz111">
+  <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidz111&theme=github_dark"
+        alt="Productive Time"
+      />
+   </a>
+</p>
+
+
 
 <!-- GIF Animations -->
 <!-- <p align="center">
