@@ -72,9 +72,9 @@
 
 
 <p align="center">
- <a href="https://github.com/sidz111">
+<!--  <a href="https://github.com/sidz111">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+  </a> -->
 
    <a href="https://github.com/sidz111">
   <img
