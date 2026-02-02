@@ -1,5 +1,6 @@
 <!-- ===================== HEADER & STATS ===================== -->
 
+
 <div align="center">
 
 ## 🏆 GitHub Trophies  
@@ -17,6 +18,16 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=650&lines=Hello+Folks!+👋;I+am+Shuddhodhan+Surwade;Java+%7C+Golang+Backend+Developer;Spring+Boot+%26+Go+Enthusiast;Welcome+to+my+GitHub+Profile!" />
+</p>
+
+<h2 align="center" style="color:#39ff14;">💡 Why Work With Me?</h2>
+
+<p align="center" style="font-family:monospace; color:#80ffdb;">
+  ✔ Strong fundamentals in Backend Development<br>
+  ✔ Clean, readable & scalable code practices<br>
+  ✔ Experience with real-world projects (Java + Go)<br>
+  ✔ Fast learner, adaptable & performance-focused<br>
+  ✔ Passionate about building systems that scale
 </p>
 
 <!-- ===================== ABOUT ME ===================== -->
@@ -60,6 +71,13 @@
 <!-- ===================== SKILLS ===================== -->
 
 <h2 align="center" style="color:#39ff14;">💻 Skills & Tools</h2>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Engineering-0A0A0A?style=for-the-badge&logo=serverfault&logoColor=00FF99"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/System%20Design-1e1e1e?style=for-the-badge&logo=abstract&logoColor=ffcc00"/>
+</p>
 
 <p align="center">
 
