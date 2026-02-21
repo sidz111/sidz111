@@ -6,7 +6,7 @@
 <!--## 🏆 GitHub Trophies  
 <img src="https://github-profile-trophy.vercel.app/?username=sidz111&theme=onedark&margin-w=15&column=7" />
 -->
----
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidz111&theme=github-dark" />
 
