@@ -35,7 +35,7 @@
 <h2 align="center" style="color:#39ff14;">💫 About Me</h2>
 
 <p align="center" style="font-family:monospace; color:#9fffe0;">
-  🌏 Shirpur, Dhule, India <br>
+  🌏 Pune, India <br>
   📧 <a href="mailto:sssurwade2212@gmail.com" style="color:#00e5ff;">sssurwade2212@gmail.com</a> <br>
   👨‍💻 Java & Golang Backend Developer <br>
   ⚙️ Spring Boot | Hibernate | REST APIs | MySQL <br>
