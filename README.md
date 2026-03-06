@@ -38,7 +38,7 @@
   🌏 Pune, India <br>
   📧 <a href="mailto:sssurwade2212@gmail.com" style="color:#00e5ff;">sssurwade2212@gmail.com</a> <br>
   👨‍💻 Java & Golang Backend Developer <br>
-  ⚙️ Spring Boot | Hibernate | REST APIs | MySQL <br>
+  ⚙️ Spring Boot | Gin | GORM | JWT | Hibernate | REST APIs | MySQL <br>
   🚀 Learning High-Performance Systems with Golang <br>
   🧿 <a href="https://sidz111.github.io/portfolio/" target="_blank" style="color:#ff4da6;">Portfolio</a> |
   <a href="https://softorate.com/" target="_blank" style="color:#ff4da6;">Softorate.com</a>
