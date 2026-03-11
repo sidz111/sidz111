@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=850&lines=Golang+Backend+Engineer;2%2B+Years+Experience+in+Backend+Development;Building+High+Performance+Microservices;Java+%7C+Golang+Backend+Specialist" />
 
-<h3>⚡ Golang Backend Engineer | 2+ Years Experience</h3>
+<h3>Golang Backend Engineer | 2+ Years of Experience</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shuddhodhan-surwade-a493b7215/">
@@ -31,16 +31,16 @@
 <blockquote>
 
 <b>Name:</b> Shuddhodhan Surwade  
-<b>Role:</b> Golang Backend Engineer  
+<b>Role:</b> Backend Engineer  
 
 <b>Experience:</b> <b>2+ Years in Backend Development</b>
 
 <b>Specialization:</b>  
 • Scalable Backend Systems  
-• High Performance APIs  
+• High-Performance APIs  
 • Distributed Systems  
 
-<b>Current Tech Focus:</b>  
+<b>Core Technologies:</b>  
 • Golang (Gin, GORM)  
 • Java (Spring Boot)  
 • Microservices Architecture  
@@ -54,7 +54,7 @@
 
 ---
 
-<h2 align="center">🚀 Backend Technology Stack</h2>
+<h2 align="center">Backend Technology Stack</h2>
 
 <p align="center">
 
@@ -87,7 +87,7 @@
 
 ---
 
-<h2 align="center">📊 Development Activity</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
 
@@ -99,22 +99,14 @@
 
 ---
 
-<h2 align="center">⚙️ Backend Engineering Philosophy</h2>
-
 <p align="center">
 
 <i>
-Design scalable systems.  
-Write clean APIs.  
-Build reliable microservices.
+“Writing clean code is like writing poetry in a language that machines can understand.”
 </i>
 
-</p>
+<br>
 
----
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Status-Open_to_Backend_Roles-00FF99?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Backend_Opportunities-00FF99?style=flat-square"/>
 
 </p>
