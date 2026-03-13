@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=850&lines=Golang+Backend+Engineer;2%2B+Years+Experience+in+Backend+Development;Building+High+Performance+Microservices;Java+%7C+Golang+Backend+Specialist" />
 
-<h3>Golang + Spring Boot Backend Engineer | 2+ Years of Experience</h3>
+<h3 style="color:green;">Golang + Spring Boot Backend Engineer | 2+ Years of Experience</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shuddhodhan-surwade-a493b7215/">
