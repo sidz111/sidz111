@@ -44,7 +44,7 @@
 • Golang (Gin, GORM)  
 • Java (Spring Boot)  
 • Microservices Architecture  
-• REST APIs & JWT Authentication  
+• REST API's & JWT Authentication  
 
 <b>Location:</b> Pune, India 🇮🇳
 
