@@ -46,7 +46,7 @@
 • Microservices Architecture  
 • REST API's & JWT Authentication  
 
-<b>Contributions</b>
+<b>Open Source Contributions</b>
 • [Link of PR](https://github.com/cubrid-labs/gorm-cubrid/pull/4)
 
 <b>Location:</b> Pune, India 🇮🇳
