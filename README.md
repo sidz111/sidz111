@@ -31,7 +31,7 @@
 <blockquote>
 
 <b>Name:</b> Shuddhodhan Surwade  
-<b>Role:</b> Backend Engineer  
+<b>Role:</b> Golang Backend Engineer  
 
 <b>Experience:</b> <b>2+ Years in Backend Development</b>
 
