@@ -25,7 +25,7 @@
 <div align="left">
 
 <pre>
-<font color="#00ADD8"><b>shuddhodhan@backend:~$</b></font> cat about_me.go
+<font color="#00ADD8"><b>shuddhodhan@backend:~$</b></font>
 </pre>
 
 <blockquote>
