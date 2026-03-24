@@ -24,9 +24,7 @@
 
 <div align="left">
 
-<pre>
-<font color="#00ADD8"><b>shuddhodhan@backend:~$</b></font>
-</pre>
+
 
 <blockquote>
 
